@@ -5,5 +5,6 @@ O podcast vai ser apresentado por apenas uma pessoa, chamada João, terá uma li
 O roteiro gerado foi bem segmentado e detalhado para um episódio completo, porem houve várias edições e cortes, com o objetivo de enquadrar o tamanho final no máximo de caracteres
 permitidos para utilização de uma ferramenta text to speech gratuita, de qualidade aceitável.
 
-
+Utilizei o openart (https://openart.ai/create) para geração da imagem, por falta de acesso gratruito ao midjournei. O prompt para geração da capa foi:
+"Crie uma imagem de robo altamente dotado de inteligência narrando seu podcast, usando fones de ouvido e um microfone gigante"
 
